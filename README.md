@@ -6,5 +6,5 @@ This simple webpage models the HTML content from getElementsByClassNameSpec.js a
 comparison output for the getElementsByClassName method and your getElementsByClassName function.
 This assumes that jquery is in the local directory.
 
-Within the file getElementsByClassName-Test.html, inside the element, make sure to change the
-relative path to your getElementsByClassName.js file.
+Within the file getElementsByClassName-Test.html, inside the <head> element, make sure to change
+the relative path to your getElementsByClassName.js file.
